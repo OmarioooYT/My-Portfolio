@@ -145,3 +145,19 @@ h4{
     display: flex;
     
 }
+footer{
+    padding-left: 600px;
+    padding-bottom: 20px;
+    background-color: var(--mainblue);
+    color: #fff;
+}
+
+.info1{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 1189px;
+}
+#contact{
+    display: flex;
+    justify-items: center;
+}
